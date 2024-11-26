@@ -2,7 +2,7 @@
 <h2>Projeto desenvolvido para fixar e aprimorar meus conhecimentos, usando as tecnologias mais utilizadas no mercado, trabalhando também com responsividade, tudo isso desenvolvido e aprendido no curso 
 <a href="https://aulas.devclub.com.br/m/courses" target="_blank" rel="noopener noreferrer">DevClub</a>.</h2>
 
-<p> Este projeto se trata de um site de compras de facil acesso, segue abaixo o exeplos do site em sua versão mobile e desktop.
+<p> Este projeto se trata de um site de compras de facil acesso, trabalhando com responsividade para atender o maior número de pessoas, segue abaixo o exeplos do site em sua versão mobile e desktop.
   
 <img src="https://github.com/Samuelr-019/Easy-Shopping/blob/master/assets/img/mockup.png?raw=true" alt="Mockup">
 
