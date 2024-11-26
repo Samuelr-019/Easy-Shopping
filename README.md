@@ -6,4 +6,4 @@
   
 <img src="https://github.com/Samuelr-019/Easy-Shopping/blob/master/assets/img/mockup.png?raw=true" alt="Mockup">
 
-<center> <h3>Este projeto foi Desenvolvido utilizando as seguintes tecnologias: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <h3> <center>
+<h3>Este projeto foi Desenvolvido utilizando as seguintes tecnologias: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <h3>
